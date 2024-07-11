@@ -2,6 +2,8 @@
 layout: page
 title: Related Projects
 permalink: /related/
+description: "Other Columbus oversight projects by this site's maintainer."
+date: 2024-07-10
 ---
 
 If you like this unofficial website, you might like these other projects that Ben Keith maintains:

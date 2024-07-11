@@ -1,0 +1,25 @@
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>{% if page.title %}{{ page.title | strip_html }} | {% endif %}{{ site.title }}</title>
+
+{% assign description = page.description | default: site.description %}
+{% if description %}
+<meta name="description" content="{{ description }}">
+<meta property="og:description" content="{{ description }}">
+{% endif %}
+
+<meta property="og:image" content="{{ '/assets/columbus/img/WebsiteHeroImage-May2024-MN.png' | absolute_url }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:type" content="article" />
+
+{% if page.date %}
+<meta property="og:published_time" content="{{page.date}}" />
+{% endif %}
+
+{% if page.updated %}
+<meta property="og:updated_time" content="{{page.updated}}" />
+{% endif %}
+
+{% include favicon.html %}

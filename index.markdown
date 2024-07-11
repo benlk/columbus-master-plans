@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+description: "An unofficial list of all master plans for the City of Columbus"
+date: 2024-07-10
 ---
 
 <div

@@ -2,6 +2,8 @@
 layout: page
 title: About this website
 permalink: /about/
+description: "About the unofficial Columbus Master Plans website."
+date: 2024-07-10
 ---
 
 This site was last updated on {{ site.time | date: '%A, %B %e, %Y' }}.
