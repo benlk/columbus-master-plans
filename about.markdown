@@ -8,6 +8,8 @@ This site was last updated on {{ site.time | date: '%A, %B %e, %Y' }}.
 
 This website is a personal hobby project by [Ben Keith](https://benlk.com/), a Columbus resident who finds the City's websites inadequate for many purposes.
 
+To contribute to the development of this site, [refer to the GitHub repository](https://github.com/benlk/columbus-master-plans).
+
 For a list of similar projects maintained by Ben Keith, see [the Related Projects page](/related).
 
 ## Credits
