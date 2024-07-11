@@ -1,0 +1,25 @@
+<li class="usa-collection__item plan plan-region-{{plan.scope}}">
+  <div class="usa-collection__body">
+    <h3 class="usa-collection__heading">
+      <a
+        class="usa-link usa-link--external"
+        href="{{ plan.link }}"
+        >{{ plan.title }}</a
+      >
+    </h3>
+    <p class="usa-collection__description">{{plan.content | markdownify}}</p>
+    <ul class="usa-collection__meta" aria-label="More information">
+      <li class="usa-collection__meta-item">
+        By {{plan.author}}
+      </li>
+      <li class="usa-collection__meta-item">
+        <time>{{ plan.years }}</time>
+      </li>
+    </ul>
+    <ul class="usa-collection__meta" aria-label="Topics">
+      {% for tag in plan.tags %}
+        <li class="usa-collection__meta-item usa-tag">{{ tag }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+</li>

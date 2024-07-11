@@ -1,0 +1,45 @@
+.header-decoration-image {
+  width: 100%;
+  max-height: min(36vh, 20em);
+  object-fit: cover;
+}
+.header-decoration{
+  position: relative;
+  width: 100%;
+
+  &::after{
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 0;
+
+    width: 100%;
+    height: 10rem;
+    background: transparent linear-gradient(
+      0deg, 
+      #112f4e 0%, 
+      rgba(14,38,69,0.85098) 23%, 
+      rgba(16,42,77,0.654902) 50%, 
+      rgba(16,42,77,0) 100%) 
+      0% 0% no-repeat padding-box;
+  }
+}
+
+.usa-collection__item.plan {
+  border-width: 2px;
+  border-style: solid;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
+.plan-region-columbus {
+  @include u-border('blue-cool-50');
+  @include u-bg('blue-cool-5');
+}
+.plan-region-regional {
+  @include u-border('green-cool-50');
+  @include u-bg('green-cool-5');
+}
+
+h2 {
+  margin-top: 4rem;
+}
