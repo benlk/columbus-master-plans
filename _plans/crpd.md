@@ -12,6 +12,7 @@ scope: columbus # regional
 tags:
   - land use
   - environment
+  - trees
 related:
   - bikeplus
 updates:

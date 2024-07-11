@@ -13,6 +13,8 @@ tags:
   - land use
   - parking
   - housing
+  - art
+  - trees
 related:
   - c2p2
   - bikeplus

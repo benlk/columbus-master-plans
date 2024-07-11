@@ -13,8 +13,7 @@ partners:
   - the City of Columbus
   - the Franklin County Board of Commissioners
 tags:
-  - example
-  - parking
+  - art
 related:
   - zonein
 updates:
