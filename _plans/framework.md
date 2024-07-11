@@ -25,4 +25,4 @@ updates:
     name: "[Framework 3.0](https://pare.osu.edu/framework) plan adopted by the OSU Board of Trustees"
 ---
 
-The Ohio State University's "Framework" series of plans guide the development of the Columbus campus' housing, educational, and employment centers. Tey also inform the development of transit, bike, and pedestrian infrastructure in and around the campus.
+The Ohio State University's "Framework" series of plans guide the development of the Columbus campus' housing, educational, and employment centers. The Framework plan also informs the development of transit, bike, and pedestrian infrastructure in and around the campus.
