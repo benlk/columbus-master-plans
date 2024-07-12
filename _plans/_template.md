@@ -1,8 +1,7 @@
 ---
 published: false
 title: ""
-slug: ""
-order:
+order: 10
 link: ""
 date: 
 updated:
