@@ -46,3 +46,7 @@ Note that some of these plans were still being actively developed when this site
     {% include columbus/plan.html %}
   {% endfor %}
 </ul>
+
+## Help contribute to this site
+
+If you're aware of a master plan that isn't listed here, and isn't listed [in the project to-do list](https://github.com/benlk/columbus-master-plans/issues), please [open an issue](https://github.com/benlk/columbus-master-plans/issues/new?assignees=benlk&labels=New+Plan&projects=&template=new-plan.md&title=New+Plan%3A+%5Bplan+name%5D) on the project's GitHub repository.
