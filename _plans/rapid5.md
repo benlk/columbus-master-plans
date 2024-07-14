@@ -18,9 +18,10 @@ tags:
 related:
   - crpd
   - bikeplus
+  - bigdarby
 updates:
   - date:
     name: ""
 ---
 
-[RAPID 5](https://www.rapid5.org/envision) is a plan for improving access to Columbus' 5 major waterways, through trails and parks. The plan was originally developed by [MORPC](https://www.morpc.org/) and the [Urban Land Institute Columbus](https://columbus.uli.org/), with support from the [Columbus Neighborhood Design Center](https://www.columbusndc.org/) and 5 local architectural firms. The project continues under the auspices of an independent nonprofit also named RAPID 5, which has established a land trust. 
+[RAPID 5](https://www.rapid5.org/envision) is a plan for improving access to Columbus' 5 major waterways, through trails and parks. The plan was originally developed by [MORPC](https://www.morpc.org/) and the [Urban Land Institute Columbus](https://columbus.uli.org/), with support from the [Columbus Neighborhood Design Center](https://www.columbusndc.org/) and 5 local architectural firms. The project continues under the auspices of an independent nonprofit also named RAPID 5, which has established a land trust.
