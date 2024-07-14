@@ -1,0 +1,63 @@
+name: New Plan
+about: Suggest a plan for inclusion
+title: 'New Plan: [plan name]'
+labels: "New Plan"
+assignees: benlk
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "Name of the plan"
+      description: "What is the official name of the plan?"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: "Link to the plan's homepage"
+      description: "If the plan does not have a specific website, please link to a description on an official website."
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: "What entity is the author or maintainer of the plan?"
+      description: ""
+      placeholder: "the City of Columbus"
+      value: "the City of Columbus"
+  - type: dropdown
+    id: scope
+    attributes:
+      label: "Is this plan's scope the City of Columbus, or regional?"
+      description: "If the plan is not explictly scoped to lands only within the City of Columbus, then it's regional."
+      options:
+        - columbus
+        - regional
+      default: regional
+    validations:
+      required: true
+  - type: input
+    id: start
+    attributes:
+      label: "What date did the planning process start?"
+      description: ""
+  - type: input
+    id: published
+    attributes:
+      label: "What date was the plan first published?"
+      description: ""
+  - type: input
+    id: updated
+    attributes:
+      label: "What date was the plan most-recently updated?"
+      description: ""
+  - type: input
+    id: years
+    attributes:
+      label: "What years does the plan cover?"
+      description: "For example, a development process starting in 2019, with adoption in 2021, with an update published in 2023, with plans for ongoing reviews, would be `2019-present`."
+      placeholder: "2019-present"
+  - type: textarea
+    id: description
+    attributes:
+      label: "Describe the plan in a paragraph. MarkDown formatting is allowed."
