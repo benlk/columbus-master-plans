@@ -4,7 +4,7 @@ title: "Urban Forestry Master Plan"
 slug: "ufmp"
 order: 7
 link: "https://www.columbusufmp.org/"
-date: 2019-10-01
+date: 2024-07-10
 updated:
 years: "2019-present"
 author: "the City of Columbus"
@@ -24,4 +24,4 @@ updates:
     name: 'Columbus formally adopts the [Public Tree Code](https://www.columbusufmp.org/public-tree-code-updates.html)'
 ---
 
-The [Urban Forestry Master Plan](https://www.columbusufmp.org/) concerns both publicly-owned and privately-owned trees: their planting, maintenance, and replacement. Columbus' goal is to increase tree cover in all neighborhoods, to reduce the urban heat island effect. The public portion of this code was adopted in 2023; 
+The [Urban Forestry Master Plan](https://www.columbusufmp.org/) concerns both publicly-owned and privately-owned trees: their planting, maintenance, and replacement. Columbus' goal is to increase tree cover in all neighborhoods, to reduce the urban heat island effect. The public portion of this code was adopted in 2023;

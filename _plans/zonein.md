@@ -23,8 +23,8 @@ related:
   - art
   - rhs
 updates:
-  - date: 
-    name: 
+  - date:
+    name:
 ---
 
 Through the [Zone In initiative](https://zone-in-columbus.hub.arcgis.com/), The City of Columbus plans to increase the allowable density of housing in much of Columbus, starting with mixed-use developments along major transit corridors by summer 2024. A second phase will cover the remaining 96% of the City.

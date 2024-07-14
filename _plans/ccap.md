@@ -4,7 +4,7 @@ title: "Columbus Climate Action Plan"
 slug: "ccap"
 order: 10
 link: "https://www.columbus.gov/Services/Public-Utilities/About-Public-Utilities/Office-of-Sustainability/Columbus-Climate-Action-Plan"
-date: 2024-03-01
+date: 2024-07-10
 updated:
 years: "2021-2025"
 author: "MORPC"

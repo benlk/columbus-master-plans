@@ -3,8 +3,8 @@ published: true
 title: "Downtown Columbus Strategic Plan"
 order: 10
 link: "https://downtowncolumbus.com/about-us/plan/"
-date: 2022-09-27
-updated: 
+date: 2024-07-10
+updated:
 years: "2010-2040"
 author: "Downtown Columbus, Inc."
 scope: columbus # regional

@@ -4,7 +4,7 @@ title: "OSU Framework"
 slug: "framework"
 order: 5
 link: "https://pare.osu.edu/framework"
-date: 2023-08-17
+date: 2024-07-10
 updated:
 years: "2010-present"
 author: "the City of Columbus"
