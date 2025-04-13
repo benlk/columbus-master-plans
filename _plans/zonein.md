@@ -27,7 +27,7 @@ updates:
     name:
 ---
 
-Through the [Zone In initiative](https://zone-in-columbus.hub.arcgis.com/), The City of Columbus plans to increase the allowable density of housing in much of Columbus, starting with mixed-use developments along major transit corridors by summer 2024. A second phase will cover the remaining 96% of the City.
+Through the [Zone In initiative](https://zone-in-columbus.hub.arcgis.com/), The City of Columbus plans to increase the allowable density of housing in much of Columbus. A first phase started with mixed-use developments along major transit corridors in summer 2024, and a follow-up along State Route 161. 2025 will include citywide land-use planning, followed by commercial and industrial zones in 2026 and residential neighborhoods in 2027.
 
 This project includes, among other items:
 
