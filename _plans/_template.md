@@ -3,10 +3,11 @@ published: false
 title: ""
 order: 10
 link: ""
-date: 
+date:
 updated:
 years: ""
 author: "the City of Columbus"
+partners:
 scope: columbus # regional
 tags:
   - example

@@ -4,7 +4,7 @@ title: "Vision Zero Columbus"
 slug: "visionzero"
 order: 9
 link: "https://www.columbus.gov/Business-Development/Design-Construction/Street-Road-Projects/Vision-Zero-Home"
-date: 2020-03-02
+date: 2024-07-10
 updated:
 years: "2021-2028"
 author: "the City of Columbus"
