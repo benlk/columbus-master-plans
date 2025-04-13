@@ -17,7 +17,8 @@ primary:
   - text: About
     href: /about/
   - text: Related projects
-    href: /related/
+    href: https://benlk.github.io/
+    external: true
 
 secondary:
 

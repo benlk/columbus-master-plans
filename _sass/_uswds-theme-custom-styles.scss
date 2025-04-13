@@ -43,3 +43,6 @@
 h2 {
   margin-top: 4rem;
 }
+.usa-nav__external span {
+  @extend .usa-link--external;
+}
